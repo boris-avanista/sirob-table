@@ -1,0 +1,11 @@
+{
+    "name": "risob/table-package",
+    "description": "Table component of Risob.",
+    "autoload": {
+        "psr-4": {
+            "Risob\\TableComponent\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
